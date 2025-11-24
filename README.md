@@ -1,4 +1,5 @@
 # Performance Comparison: Assembly vs C Implementation of DAXPY
+*Made by: Anthony Baybayon && Mariel Tamondong (LBYARCH S20A)*
 
 This project evaluates the performance characteristics of Assembly and C implementations of the DAXPY operation: `Z[i] = A*X[i] + Y[i]`
 
