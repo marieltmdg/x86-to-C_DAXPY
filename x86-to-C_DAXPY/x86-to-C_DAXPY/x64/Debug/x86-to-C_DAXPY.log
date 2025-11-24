@@ -1,6 +1,2 @@
-﻿  Performing Custom Build Tools
-  daxpy_c.c
-  main.c
-  Generating Code...
-  LINK : C:\Users\marie\OneDrive\Documents\GitHub\x86-to-C_DAXPY\x86-to-C_DAXPY\x64\Debug\x86-to-C_DAXPY.exe not found or not built by the last incremental link; performing full link
-  x86-to-C_DAXPY.vcxproj -> C:\Users\marie\OneDrive\Documents\GitHub\x86-to-C_DAXPY\x86-to-C_DAXPY\x64\Debug\x86-to-C_DAXPY.exe
+﻿  main.c
+  x86-to-C_DAXPY.vcxproj -> C:\Users\marie\OneDrive\Documents\GitHub\x86-to-C-interface-programming-project\x86-to-C_DAXPY\x64\Debug\x86-to-C_DAXPY.exe
