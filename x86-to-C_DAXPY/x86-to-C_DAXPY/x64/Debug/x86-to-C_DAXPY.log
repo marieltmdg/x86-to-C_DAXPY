@@ -1,2 +1,5 @@
-﻿  main.c
-  x86-to-C_DAXPY.vcxproj -> C:\Users\marie\OneDrive\Documents\GitHub\x86-to-C-interface-programming-project\x86-to-C_DAXPY\x64\Debug\x86-to-C_DAXPY.exe
+﻿  Performing Custom Build Tools
+  daxpy_c.c
+  main.c
+  Generating Code...
+  x86-to-C_DAXPY.vcxproj -> C:\Users\marie\OneDrive\Documents\GitHub\x86-to-C_DAXPY\x86-to-C_DAXPY\x64\Debug\x86-to-C_DAXPY.exe
